@@ -51,6 +51,8 @@ The *nvidia-driver-xxx* is your driver which is compatible with your graphic car
         CUDA == 11.6.2
         torch == 1.12.1
         TensorRT == 8.4
+        
+        
 
 ## TRT weights and Sources
 
