@@ -54,7 +54,7 @@ The *nvidia-driver-xxx* is your driver which is compatible with your graphic car
         
         
 
-## TRT weights and Sources
+## TRT Weights and Sources
 
 The converted trained weights and sources are stored in the drive link below.
 
