@@ -32,7 +32,7 @@ Install this repository with git.
   git clone https://github.com/oguzaybilir/YOLOv7-Predict-with-UI.git
   cd YOLOv7-Predict-with-UI
 ```
-## Deployment
+## Installing Libs
 
 There is a requirements.txt file to install packages you need. This file contains almost all libraries and modules used in the project.
 
@@ -54,7 +54,7 @@ The *nvidia-driver-xxx* is your driver which is compatible with your graphic car
         
         
 
-## TRT weights and Sources
+## TRT Weights and Sources
 
 The converted trained weights and sources are stored in the drive link below.
 
