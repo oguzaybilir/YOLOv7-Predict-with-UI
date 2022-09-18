@@ -60,7 +60,8 @@ The converted trained weights and sources are stored in the drive link below.
 
 [Drive Link](https://drive.google.com/drive/folders/15hrCM2OF30o5S4bpa5fD8nrVFm4aDjht?usp=sharing) for .trt weights and sources.
 
-## Export
+
+## Converting .PT weights to .TRT weights
 
 **Method 1**
 
