@@ -32,7 +32,7 @@ Install this repository with git.
   git clone https://github.com/oguzaybilir/YOLOv7-Predict-with-UI.git
   cd YOLOv7-Predict-with-UI
 ```
-## Deployment
+## Installing Libs
 
 There is a requirements.txt file to install packages you need. This file contains almost all libraries and modules used in the project.
 
