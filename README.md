@@ -43,7 +43,7 @@ To install this libraries and packages:
 ```
 ## Required Packages
 
-These packages are absolutely essential packages for the job. In this case, you must first install the following packages in this order.
+These packages are absolutely essential packages for this project. In this case, you must first install the following packages in this order.
 
 The *nvidia-driver-xxx* is your driver which is compatible with your graphic card.
 
