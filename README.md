@@ -112,6 +112,7 @@ python ./tensorrt-python/export.py -o yolov7-tiny.onnx -e yolov7-tiny-nms.trt -p
 
 ## Acknowledgements
 
+ - [Mehmet Okuyar](https://github.com/MehmetOKUYAR)
  - [Official YOLOv7 Repository](https://github.com/WongKinYiu/yolov7)
  - [TensorRT Website](https://github.com/matiassingers/awesome-readme)
  - [CUDA Website](https://developer.nvidia.com/cuda-zone)
