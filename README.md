@@ -26,7 +26,7 @@ As you can see above, this project can also work on mid-segment systems.
 
 ## Cloning the Repository
 
-Install this repository with git.
+Clone this repository with git.
 
 ```bash
   git clone https://github.com/oguzaybilir/YOLOv7-Predict-with-UI.git
@@ -61,7 +61,7 @@ The converted trained weights and sources are stored in the drive link below.
 [Drive Link](https://drive.google.com/drive/folders/15hrCM2OF30o5S4bpa5fD8nrVFm4aDjht?usp=sharing) for .trt weights and sources.
 
 
-## Converting .PT weights to .TRT weights
+## Converting .PT weights to .ONNX and .TRT weights
 
 **Method 1**
 
