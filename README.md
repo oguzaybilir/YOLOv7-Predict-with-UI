@@ -3,7 +3,7 @@
 # YOLOv7 Image and Video Inference with UI
 
 This project is made for having quick inferences and makes the job easier for end users.
-We aimed to develop a project that makes light and fast inference.
+We aimed to develop a light project that makes fast inferences.
 
 As an example, we used pothole dataset. 
 
