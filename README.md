@@ -58,7 +58,7 @@ The *nvidia-driver-xxx* is your driver which is compatible with your graphic car
 
 The converted trained weights and sources are stored in the drive link below.
 
-[Drive Link](https://drive.google.com/drive/folders/15hrCM2OF30o5S4bpa5fD8nrVFm4aDjht?usp=sharing) for .trt weights and sources.
+[Drive Link](https://drive.google.com/drive/folders/15hrCM2OF30o5S4bpa5fD8nrVFm4aDjht?usp=sharing) to .trt weights and sources.
 
 
 ## Converting .PT weights to .ONNX and .TRT weights
