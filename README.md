@@ -11,7 +11,7 @@ The system features:
 
     OS : Ubuntu 20.04 LTS 64-bit 
     CPU : Intel(R) Core(TM) i5-10200H CPU @ 2.40GHz
-    GPU : Nvidia GTX 1650ti 4GB
+    GPU : Nvidia GeForce GTX 1650ti 4GB
     RAM : Samsung M471A1K43DB1-CWE 8GB
 
 As you can see above, this project can also work on mid-segment systems.
