@@ -46,6 +46,7 @@ To install this libraries and packages:
 These packages are absolutely essential packages for this project. In this case, you must first install the following packages in this order.
 
 The *nvidia-driver-xxx* is your driver which is compatible with your graphic card.
+Also CUDA, torch and TensorRT versions depend on your nvidia-driver version.
 
         nvidia-driver-xxx
         CUDA == 11.6.2
